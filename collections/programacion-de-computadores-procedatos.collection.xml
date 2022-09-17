@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Guillermo Buritica Tobon">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10517</md:content-id>
+    <md:title>Programacion de Computadores (Procedatos)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>es-co</md:language>
+    <md:uuid>1171c82f-a57a-4a98-bcf1-146ecb530ebe</md:uuid>
+<md:slug>programacion-de-computadores-procedatos</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Definicion de Problemas</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
